@@ -20,6 +20,7 @@ let circleTurn;
 
 startGame()
 //hello
+//hello again
 restartButton.addEventListener('click', startGame);
 
 function startGame() {
