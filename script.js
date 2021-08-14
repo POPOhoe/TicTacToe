@@ -19,7 +19,7 @@ const restartButton = document.getElementById('restartButton');
 let circleTurn;
 
 startGame()
-
+//hello
 restartButton.addEventListener('click', startGame);
 
 function startGame() {
